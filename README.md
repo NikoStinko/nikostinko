@@ -13,7 +13,7 @@ I'm a **Full-Stack Developer** who loves creating impactful web, mobile and desk
 - Mastering **Kubernetes** and **Docker** for containerized applications.
 
 ### 💬 Ask me about:
-- Full-stack development: **MERN**, **MEVN**, and **serverless architectures**.
+- Full-stack development.
 - Tips for managing complex codebases.
 - Open-source contributions and collaboration.
 
