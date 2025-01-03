@@ -31,7 +31,7 @@ I'm a **Full-Stack Developer** who loves creating impactful web, mobile and desk
 - He/Him
 
 ### ⚡ Fun fact:
-When I'm not coding, you can find me experimenting with coffee brewing techniques, binge-watching sci-fi series, or playing retro video games.
+I'm a musician that create alternative electronic music : [My Spotify](https://open.spotify.com/intl-fr/artist/4bmxIzwgUVPKKWyFSWjCIE?si=Ggix4h0TRq-vHJcCXtkTbA)
 
 ---
 
