@@ -2,18 +2,13 @@
 
 I'm a **Full-Stack Developer** who loves creating impactful web, mobile and desktop applications. I enjoy turning complex problems into simple, elegant solutions through clean code and innovative designs.
 
-### 🔭 What I'm working on:
-- Building scalable and intuitive web applications.
-- Exploring cutting-edge technologies in **PHP** and **JAVA**.
-- Diving deeper into **cloud solutions** and **DevOps** practices.
-
 ### 🌱 What I'm learning:
 - Enhancing my expertise in **SWIFT**, **Objective-C**.
 - Exploring **AI integration** and **machine learning** in web development.
 - Mastering **Kubernetes** and **Docker** for containerized applications.
 
 ### 💬 Ask me about:
-- Full-stack development.
+- Full-stack development: **PHP**, **JAVA**...
 - Tips for managing complex codebases.
 - Open-source contributions and collaboration.
 
