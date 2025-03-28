@@ -10,7 +10,7 @@ I'm 20 and **Full-Stack Development** is my best capacity, loving creating impac
 
 ### 💬 Ask me about:
 - **Linux** background, a very long experience.
-- Full-stack development: **CSS**, **PHP**, **JAVA**, **PYTHON**, **C**
+- Full-stack development: **CSS**, **PHP**, **JAVA**, **PYTHON**, **C**, **Swift**, **Bash**, **SQL**
 - Tips for managing complex codebases with **UML** modelization.
 - Open-source contributions and collaboration.
 - **MySQL**, **apache2** & **ssh** to deploy and manage websites. 
