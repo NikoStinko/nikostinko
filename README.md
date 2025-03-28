@@ -1,16 +1,19 @@
 ## Hi, I'm Niko Stinko!
 
-I'm a **Full-Stack Developer** who loves creating impactful web, mobile and desktop applications. I enjoy turning complex problems into simple, elegant solutions through clean code and innovative designs.
+I'm 20 and **Full-Stack Development** is my best capacity, loving creating impactful web, mobile and desktop applications and turning complex problems into simple solutions through clean code with adaptive design.
 
 ### 🌱 What I'm learning:
-- Enhancing my expertise in **SWIFT**, **Objective-C**.
-- Exploring **AI integration** and **machine learning** in web development.
-- Mastering **Kubernetes** and **Docker** for containerized applications.
+- Enhancing my expertise in **React JSX**, **JavaScript ES6**, **PHP $Ajax**.
+- Exploring **AI integration** and **Machine Learning** in Desktop App, Statistic App & Web Development.
+- Some potential in **Docker** and a big experience of **python** for containerized applications.
+
 
 ### 💬 Ask me about:
-- Full-stack development: **PHP**, **JAVA**...
-- Tips for managing complex codebases.
+- **Linux** background, a very long experience.
+- Full-stack development: **CSS**, **PHP**, **JAVA**, **PYTHON**, **C**
+- Tips for managing complex codebases with **UML** modelization.
 - Open-source contributions and collaboration.
+- **MySQL**, **apache2** & **ssh** to deploy and manage websites. 
 
 ### 👯 I’m looking to collaborate on:
 - Innovative web or mobile app projects.
@@ -22,12 +25,9 @@ I'm a **Full-Stack Developer** who loves creating impactful web, mobile and desk
 - Discord : nodewiz
 - GitHub: You're already here!
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun fact:
 I'm a musician that create alternative electronic music : [My Spotify](https://open.spotify.com/intl-fr/artist/4bmxIzwgUVPKKWyFSWjCIE?si=Ggix4h0TRq-vHJcCXtkTbA)
 
 ---
 
-_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+_"If it works, don't touch it."_
