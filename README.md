@@ -1,6 +1,6 @@
 ## Hi, I'm Niko Stinko!
 
-I'm 20 and **Full-Stack Development** is my best capacity, loving creating impactful web, mobile and desktop applications and turning complex problems into simple solutions through clean code with adaptive design.
+I'm 21 and **Full-Stack Development** is my best capacity, loving creating impactful web, mobile and desktop applications and turning complex problems into simple solutions through clean code with adaptive design.
 
 ### 🌱 What I'm learning:
 - Enhancing my expertise in **React JSX**, **JavaScript ES6**, **PHP $Ajax**.
