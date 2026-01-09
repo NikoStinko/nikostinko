@@ -10,10 +10,10 @@ I'm 21 and **Full-Stack Development** is my best capacity, loving creating impac
 
 ### 💬 Ask me about:
 - **Linux** background, a very long experience.
-- Full-stack development: **CSS**, **PHP**, **JAVA**, **PYTHON**, **C**, **Swift**, **Bash**, **SQL**
+- Full-stack development: **CSS**, **PHP5+**, **JAVA**, **PYTHON**, **C/C++**, **Swift**, **Bash**, **SQL**, **JS**
 - Tips for managing complex codebases with **UML** modelization.
 - Open-source contributions and collaboration.
-- **MySQL**, **apache2** & **ssh** to deploy and manage websites. 
+- **MySQL**, **Apache2** & **SSH** to deploy and manage websites. 
 
 ### 👯 I’m looking to collaborate on:
 - Innovative web or mobile app projects.
@@ -22,7 +22,8 @@ I'm 21 and **Full-Stack Development** is my best capacity, loving creating impac
 
 ### 📫 How to reach me:
 - Email: [niko.stinko64@gmail.com](mailto:niko.stinko64@gmail.com)
-- Discord : nodewiz
+- YouTube : [Freak Show](https://www.youtube.com/@BarFr34kShow)
+- Discord : [Freak Show](https://discord.gg/ANybRDWqe5)
 - GitHub: You're already here!
 
 ### ⚡ Fun fact:
